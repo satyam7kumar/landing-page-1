@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+}
+.topright{
+    width: 50%;
+}
+.section1{
+    max-height: 100vh;
+}
+.section1 h1{
+    font-size: 2rem;
+}
+.logo{
+    font-size: 1.5rem;
+}
+.dumbelling{
+    height: 295px;
+    width: 378px;
+}
+.topright .gyming{
+    width: 789px;
+}
+.section2{
+    padding: 72px;
+}
+.section2 h1{
+    font-size: 3rem;
+}
+.section2 p{
+    padding: 0 8px;
+    text-align: center;
+}
+.box{
+    margin: 22px;
+    min-width: 23vw;
+    border: 2px solid rgb(136, 77, 77);
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px 0;
+}
+.box h2{
+    font-size: 2rem;
+    padding: 16px 0;
+}
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.section3{
+    padding: 72px;
+}
+.section3 h1{
+    font-size: 4rem;
+    color: rgb(3, 41, 41);
+    margin: 29px;
+}
+.section3 ul li{
+    font-size: 30px;
+    list-style-type: none;
+    padding: 12px;
+    justify-content: center;
+    text-align: center;
+}
